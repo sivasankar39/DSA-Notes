@@ -1,0 +1,14 @@
+Windows+X - Menu
+Windows+X+Y - Spec
+ALT+F4(fn key) - escape
+ALT+Escape - minimize
+Cntrl+shift+Escape - Task Manager
+Cntrl+Alt+Delete - when stuck
+Alt+tab / windows+tab-  change to another tab
+Windows+R - run dialog (search an app)
+Cntrl+Z- Undo
+Xntrl+Y - Redo
+Windows+Alt+R - Full screen recording
+Cntrl+shift+arrow- word by word select
+Cntrl+arrow- character by character
+

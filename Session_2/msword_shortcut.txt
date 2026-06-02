@@ -1,0 +1,2 @@
+Cntrl+H - voice typing
+Cntrl+. - emoji    

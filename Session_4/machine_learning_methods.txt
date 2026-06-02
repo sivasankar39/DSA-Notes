@@ -1,0 +1,13 @@
+# 1. Supervised Learning (Labeled Data)
+- Linear/Logistic Regression: Used for predicting continuous values (e.g., house prices) or binary outcomes (e.g., spam vs. not spam).
+- Decision Trees & Random Forests: Tree-structured models used for classification and regression; excellent for handling complex, non-linear data.
+- Support Vector Machines (SVM): Finds the optimal boundary (hyperplane) to cleanly separate different data classes.
+
+# 2. Unsupervised Learning (Unlabeled Data)
+- K-Means Clustering: Groups data points into distinct clusters based on feature similarity (e.g., customer segmentation).
+- Principal Component Analysis (PCA): Reduces the dimensionality of large datasets while retaining most of the original variance.
+- Association Rule Learning (Apriori): Identifies strong relationships between products (e.g., "People who buy diapers also buy beer").
+
+# 3. Reinforcement Learning (Trial and Error)
+- Q-Learning: A value-based algorithm where an agent learns the optimal action to take based on a reward system.
+- Deep Q-Networks (DQN): Combines reinforcement learning with deep neural networks to handle highly complex environments (e.g., chess, self-driving).
