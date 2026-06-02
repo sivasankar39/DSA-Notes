@@ -1,0 +1,3 @@
+Decision Making: Code blocks (using if, elif, and else) that allow a program to execute specific instructions only when certain conditions are true.
+
+Control Flow: Redirects the path of execution based on boolean evaluation (True or False), letting the program adapt dynamically to different inputs.

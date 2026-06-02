@@ -1,0 +1,14 @@
+Iterative Statements (Loops):
+Repetitive Execution: Control structures that repeatedly run a block of code as long as a specific condition is met or until a sequence is fully traversed.
+
+Automation and Efficiency: Eliminates the need to write redundant code by automating repetitive tasks like processing items in a collection or counting numbers.
+
+for Loop:
+Sequence Traversal: Best used when you know the exact number of iterations in advance, as it iterates over a predefined sequence (like a list, tuple, string, or range()).
+
+Automatic Progression: Automatically moves to the next element in the sequence during each iteration without requiring manual counter management.
+
+while Loop:
+Condition-Driven: Executes continuously based on a boolean condition, running as long as that specific condition remains True.
+
+Manual Control: Requires a manual update or state change (like an increment or a break statement) inside the loop body to avoid creating an infinite loop.

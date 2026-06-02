@@ -1,0 +1,7 @@
+Python - High level - Object oriented - interpreted - dynamic semantics
+
+Numpy: Python library, used to make easy data science operations, multi dimentional array processing.
+Pandas: Built on top of Numpy. Load, inspect, filter
+Scikit learn: Used to build AI model
+
+\*\* Set up vs code and juipiter notebook and wrote basic code to print something

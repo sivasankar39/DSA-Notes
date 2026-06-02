@@ -1,0 +1,3 @@
+Code Reusability: Blocks of organized, reusable code created using the def keyword that perform a single, specific action, preventing you from writing the same logic multiple times.
+
+Modular Structure: Helps break down large, complex programs into smaller, manageable chunks that accept inputs (arguments) and optionally return an output (using the return statement).

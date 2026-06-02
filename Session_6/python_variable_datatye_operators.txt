@@ -1,0 +1,18 @@
+.py Extension
+.ipynb - collab and jupiter notebok
+
+Variables: Named memory locations used to store and reference data values that can change during program execution.
+
+Data Types: Classifications that determine what kind of value a variable can hold and what operations can be performed on it.
+
+Operators
+
+Arithmetic Operators: Symbols (like +, -, \*, /) used to perform standard mathematical calculations on numerical values.
+
+Relational Operators: Symbols (like ==, >, <) used to compare two values and determine the relationship between them, returning a boolean result.
+
+Logical Operators: Connectives (like and, or, not) used to combine or invert boolean expressions and control program flow.
+
+Bitwise Operators: Operators that manipulate data at the individual binary digit (bit) level for low-level processing.
+
+Membership Operators (in / not in): Keywords used to check whether a specific value exists or does not exist within a sequence or collection.

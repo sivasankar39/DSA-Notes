@@ -1,0 +1,19 @@
+OOP
+A way to design programs by mapping real-world things into code as "objects" that hold both data and actions.
+
+Built on four main ideas: hiding data, hiding complexity, reusing code, and letting things take multiple forms.
+
+Inheritance
+Lets a new child class automatically copy all the traits and behaviors of an existing parent class.
+
+Helps you reuse code instead of writing the same logic over again from scratch.
+
+Multilevel Inheritance
+A pass-down chain where a child class becomes the parent to a new grandchild class.
+
+The grandchild automatically gets access to the features of both its parent and grandparent.
+
+Multiple Inheritance
+Happens when a single child class copies features from two or more parent classes at the exact same time.
+
+Python uses a strict search order to decide which parent's code to run if there is a naming clash.

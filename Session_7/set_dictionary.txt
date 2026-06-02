@@ -1,0 +1,9 @@
+Set:
+Unordered and Unindexed: Elements do not have a defined order or position, meaning you cannot access them using a specific index number.
+
+Unique Elements Only: Automatically eliminates any duplicate values, making it ideal for tracking distinct items or performing mathematical operations like unions and intersections.
+
+Dictionary:
+Key-Value Pairs: Stores data as associated pairs where unique keys (like a word) act as custom indexes to map directly to specific values (like a definition).
+
+Changeable but No Duplicate Keys: Values can be updated or modified at any time, but keys must remain unique to prevent overriding existing data.
